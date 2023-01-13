@@ -8,6 +8,6 @@ public class simpleprogram {
 
 	}
 	public void method1() {
-		System.out.println("This is a simple java program");
+		System.out.println("This is  simple java program");
 	}
 }
